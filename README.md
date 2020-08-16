@@ -1,6 +1,6 @@
 # Cloud ☁️
 
-A desktop app for my cloud project <br>
+A desktop app for my cloud project 
 
 <img width='128' height='128' src='https://i.imgur.com/Qe7LEJp.png'>
 
