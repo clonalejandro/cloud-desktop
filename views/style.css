@@ -1,0 +1,14 @@
+header, form {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  text-align: center
+}
+
+header > * {
+  font-weight: 300
+}
+
+header > img {
+  width: 64px;
+  height: 64px
+}
